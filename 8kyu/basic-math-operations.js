@@ -28,3 +28,6 @@ function basicOp(operation, value1, value2){
           return 0;
     }
 }
+
+
+// NOTE *** This type of statement is called a switch statement. 
