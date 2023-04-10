@@ -16,6 +16,6 @@ function digitize(n) {
 
 
 //  NOTE **
-// Return a string(n) that is to be turned into a array of individual
+// Return a string(n) that is to be turned into an array of individual
 // characters by the split('') function. Then .map across the array to 
 // indicate that they should be NUMBERS. Finally, reverse the array of numbers
